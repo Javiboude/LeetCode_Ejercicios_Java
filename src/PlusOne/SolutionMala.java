@@ -12,7 +12,7 @@ class SolutionMala {
     	//Le sumamos un numero como pide el ejercicio
     	numeros = numeros + 1;
     	
-    	//Pasamos el int a st4ring
+    	//Pasamos el int a string
     	String numerosStr = Integer.toString(numeros);
     	
     	////Le damos la longitud a nuestro array
